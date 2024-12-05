@@ -1,0 +1,66 @@
+/* styles/globals.module.css */
+.container {
+    padding: 2rem;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.8;
+    background-color: #fdf9f5;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+  
+  .paragraph {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    color: #444;
+  }
+  
+  .quoteSection {
+    border-top: 1px dashed #ccc;
+    border-bottom: 1px dashed #ccc;
+    padding: 1.5rem 0;
+    margin: 1.5rem 0;
+  }
+  
+  .blockquote {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border-left: 5px solid #e0aaff;
+    background: #faf6f9;
+    font-style: italic;
+    font-size: 1.1rem;
+  }
+  
+  .cite {
+    display: block;
+    margin-top: 0.5rem;
+    text-align: right;
+    font-weight: bold;
+    color: #666;
+  }
+  
+  .feedbackSection {
+    margin-top: 2rem;
+    text-align: center;
+  }
+  
+  .button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    background-color: #e0aaff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+  }
+  
+  .button:hover {
+    background-color: #d695f8;
+  }
+  
