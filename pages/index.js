@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.header}>Genderqueer People</h1>
+        <h1 className={styles.header}>Support Genderqueer People 😼</h1>
         <p className={styles.paragraph}>
           Genderqueer people are individuals whose gender identity doesn't fully align with the traditional boxes of man and woman. Unfortunately, many genderqueer individuals face discrimination, bias, and even violence just for experiencing gender differently and being who they are. As a result of the unnecessary hate they experience, many genderqueer peoples’ mental healths are significantly negatively affected.
         </p>
