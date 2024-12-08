@@ -27,7 +27,7 @@
 /* Mobile styles for wider paragraphs */
 @media (max-width: 768px) {
     .paragraph {
-        width: 90%; /* Makes it wider on mobile */
+        width: 95%; /* Makes it wider on mobile */
         margin: 0 auto; /* Centers the paragraph horizontally */
     }
 }
